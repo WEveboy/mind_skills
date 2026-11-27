@@ -1,0 +1,204 @@
+{
+  "version": "0.1.0",
+  "scope": "files listed only; excludes manifest, SHA256SUMS, add plan and local receipts to avoid recursion",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 32,
+      "sha256": "74f066599d3fe2817756c3e532a869d370d4294c5c0a188487da2855f9b2378e",
+      "git_blob_sha1": "b8e1e5042b95bf8199eb3ff7bff943458648f5f1"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 52,
+      "sha256": "525f9d6b99ea118c2e7ec39f7cf21a1d0b7f51d465debcbfe2f18354892cbdfc",
+      "git_blob_sha1": "3f97f1a2c84697922149acc847394191e13b454e"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 122,
+      "sha256": "2915205d077793716114fa5f73309a1b69a2dccdafa063cca7ec36ec43b6b6e9",
+      "git_blob_sha1": "40ec9fa8252c23b63ccbd3c64d9bb34b881777b0"
+    },
+    {
+      "path": "CONTRIBUTORS.md",
+      "bytes": 188,
+      "sha256": "d2d8913d35c8d0c2581d5cf5e4f26ceb85a454cc03a4295ded9783fd0a2e42f6",
+      "git_blob_sha1": "ff4ab7986648e1a5c8e9f7160ce982719b6b9adb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1932,
+      "sha256": "bb67bf38e9090f754bb00a235295db9dccce23490ee9089273d8bbda1186fda8",
+      "git_blob_sha1": "b1ca14bd956c857426b40591d18b619040d5d469"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 180,
+      "sha256": "20b9f3e3d5abb106651e18d82ffbe364236df5b1dfdcebc2f218678452882173",
+      "git_blob_sha1": "c92181d71c0fbbbad9ba2bb89e99dcd63e082e6b"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 432,
+      "sha256": "a8e273e765b5f7b144e2a8da52b92a52d6ce842fcc6ea1a6051a32a04e71f045",
+      "git_blob_sha1": "20ebbc41fc1fe9142d6f72580d5fc8a340273134"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 6,
+      "sha256": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+      "git_blob_sha1": "6e8bf73aa550d4c57f6f35830f1bcdc7a4a62f38"
+    },
+    {
+      "path": "docs/SOURCE_MANIFEST.json",
+      "bytes": 8030,
+      "sha256": "588d84e89b692aeea984cfb5c37b8c4addb404f3ffd2e554837c6ff6034cdbfd",
+      "git_blob_sha1": "8ab69718a62c62698e91d57a63eccb8399ed9d05"
+    },
+    {
+      "path": "docs/candidates.json",
+      "bytes": 15581,
+      "sha256": "ec1166eca76ebf8b5eaa0f8fa695b5e0af50383b6dc9b5dae96afb7ea6b22f8b",
+      "git_blob_sha1": "49a247ca9e305be6b550c17cea0dd28f981cc6fd"
+    },
+    {
+      "path": "docs/coverage-audit.md",
+      "bytes": 1529,
+      "sha256": "ac4d87c4f344a5a2685af8ec62d639c3fa7b5bdd6dd117ba14a7f881e6b79c79",
+      "git_blob_sha1": "f14e0cddd85c2ab1dbeae4edeafa04bda4d86c30"
+    },
+    {
+      "path": "docs/delivery-checklist.md",
+      "bytes": 1445,
+      "sha256": "b92c254615841e4169f8e6cd2e0197dbc62c70a4be3ae6e8b76cf9bd1c84ccf6",
+      "git_blob_sha1": "7ed512a072a23ca81fc07a7ad16480b8611d4a2b"
+    },
+    {
+      "path": "docs/digest.md",
+      "bytes": 3801,
+      "sha256": "e13e0d7d129b1673783cf970ea7954e89f9e57854a4b7abca189291bab20025f",
+      "git_blob_sha1": "6e8649800c9b21f36448c0bcae57dc2cc40d8c44"
+    },
+    {
+      "path": "docs/reading-coverage.json",
+      "bytes": 4167,
+      "sha256": "a91998e6e30e926108be5ac9f0e6d07d2326745ebfcc36f642e35e392d24135e",
+      "git_blob_sha1": "fe1b9f4dcbaca00a9f2faac0272043de2d2dad2c"
+    },
+    {
+      "path": "docs/skill-spec.json",
+      "bytes": 987,
+      "sha256": "7d1a43670545b7207dabb38b65593a1fcd539a645565fa92858ccf503428aff8",
+      "git_blob_sha1": "a731e3a8e9f812a956b547f1112663c9493ab0d8"
+    },
+    {
+      "path": "docs/tasks.md",
+      "bytes": 804,
+      "sha256": "8844a8ff86d51c520b805d9fecc244a0a1f2937796797575432350c3b2ae751d",
+      "git_blob_sha1": "12bdd1e14b8e1b7a55b49c61ed184a6a220f662f"
+    },
+    {
+      "path": "docs/workflow-adoption.md",
+      "bytes": 498,
+      "sha256": "1e91f3c73a807bb053fb45d2a576b1199f1f78253dfd64beefc26c86ece1c809",
+      "git_blob_sha1": "c060f508cc8a63007a1c224841d1414c3cc6e279"
+    },
+    {
+      "path": "evaluation/cases.json",
+      "bytes": 3141,
+      "sha256": "8e7bec584bf77de4b2a23bc0b407a190ffc54f39d71fd51ddea8650a09a9c4a5",
+      "git_blob_sha1": "06593e376ce59eaabf6369662642891b6cc2f71f"
+    },
+    {
+      "path": "evaluation/outputs.md",
+      "bytes": 5175,
+      "sha256": "4178a96a3b5c7cd5ef4fc892bc8fbddd5930eb91e6d16f1e716cdf8e36b0377c",
+      "git_blob_sha1": "3a3244e853092ad62bfdefad36f3824dd48e2a8b"
+    },
+    {
+      "path": "evaluation/report.md",
+      "bytes": 2977,
+      "sha256": "940a509133e9925ce0794b677ee2fd53b389c18df44aea8b9bdde722ba1deb14",
+      "git_blob_sha1": "ec37b418a69eda1921ca3f0b8e959949527c100f"
+    },
+    {
+      "path": "examples/integrated.md",
+      "bytes": 1465,
+      "sha256": "f7b25a0dc8f1bb5db714fbce03a6ed8f1c793d0d60b385de5d7b8e1cdd36d5cd",
+      "git_blob_sha1": "59bfb5d6ced7ce6944c652c7614fa2a7966455e5"
+    },
+    {
+      "path": "scripts/freeze.py",
+      "bytes": 2188,
+      "sha256": "84ec56ed3769b4d2da2ea8f09651970260565c7cc6e0dbc39039f8129e540058",
+      "git_blob_sha1": "d899080f92bb79f26c403ab4ff9ad0c3e6512d7b"
+    },
+    {
+      "path": "scripts/validate_package.py",
+      "bytes": 1337,
+      "sha256": "597c4d2fbe0f38ac283d1e9bb2b4c3229b65ca31d4d767688747429b42a2945e",
+      "git_blob_sha1": "e4ae46db2a8d595f2cd620762abc2e257e57625b"
+    },
+    {
+      "path": "skills/mind_skill/SKILL.md",
+      "bytes": 3445,
+      "sha256": "063c3bdc51c2547d0b6aa23897aede641714daddc8a62d17b697f9bf999e2a0d",
+      "git_blob_sha1": "a4c27e95a7c8f11991c9235d7b595a3c98409784"
+    },
+    {
+      "path": "skills/mind_skill/references/control.md",
+      "bytes": 2057,
+      "sha256": "22fcb4d283a003641b3958497df9ec73ee38e14aded0877824acb2f7a2cc02ab",
+      "git_blob_sha1": "2d8c54545a759583e183c6a4a75906ec63618532"
+    },
+    {
+      "path": "skills/mind_skill/references/inquiry.md",
+      "bytes": 1774,
+      "sha256": "76a754a473251decc9181f38cbfa2f5b483031077e5911405a1962d4d4592962",
+      "git_blob_sha1": "5a14add242b66a81ed6fbd3aba3961c58e1614a5"
+    },
+    {
+      "path": "skills/mind_skill/references/lateral.md",
+      "bytes": 2190,
+      "sha256": "7003e479fd55cd0a4f991b10107f2849c5a90d9e06ccd867559bf4f007a54181",
+      "git_blob_sha1": "9593334c36bf28e198cde2c23fe8b8c3edbb5820"
+    },
+    {
+      "path": "skills/mind_skill/references/logic.md",
+      "bytes": 2267,
+      "sha256": "e000fc7dba70496cf412ee362f608ba7aedf53fe785ba67f99396315992080a1",
+      "git_blob_sha1": "7d194a9b8ea32587acc62429606047efa3e35367"
+    },
+    {
+      "path": "skills/mind_skill/references/sources.md",
+      "bytes": 3229,
+      "sha256": "25ea5d3010a3a8be2d742524e433938cb2333479d15f3d57f1b08e1c50a40d5b",
+      "git_blob_sha1": "e278a26da3abffd719395b9c21c847f91d4e8ad0"
+    },
+    {
+      "path": "skills/mind_skill/references/systems.md",
+      "bytes": 2370,
+      "sha256": "ae7cb72b1ddbb8e6eadfabf1f750dcdeab882a0b55c1342bb50a42c74cccca41",
+      "git_blob_sha1": "abcf039c378494b334ac76585912b8eedb8c3a44"
+    },
+    {
+      "path": "skills/mind_skill/scripts/check_models.py",
+      "bytes": 1351,
+      "sha256": "e3706efa02cf907601ff23e7c1d72db28f99fc1041c4aaa41522de4496b8124b",
+      "git_blob_sha1": "480f5b8f4597b6f15ec5cc87da781b326eaacead"
+    },
+    {
+      "path": "tests/test_models.py",
+      "bytes": 1694,
+      "sha256": "261f4d630e79658f8ddd3cf60299387706e3010289ae8b6f1f6de9802542d30f",
+      "git_blob_sha1": "2f878444db637e530273d8231df73aa56f596f8e"
+    },
+    {
+      "path": "releases/v0.1.0/mind_skill.zip",
+      "bytes": 12709,
+      "sha256": "52df01e210ad8520749348c2299e540fae7e485395b46a365f1dd4c0d3e5bb6d",
+      "git_blob_sha1": "d90267841499eb434ac12589b83491b7a4960b5e"
+    }
+  ]
+}

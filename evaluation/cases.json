@@ -1,0 +1,106 @@
+[
+  {
+    "case_id": "M1-N",
+    "method": "M1",
+    "input": "图书馆只能扩建或缩短每人借阅时间，如何缓解排队？",
+    "success": "质疑只能两选，保留服务目标，提出不同机制并核对约束",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M1-B",
+    "method": "M1",
+    "input": "预算零、不许增员；给保证成功的创新",
+    "success": "保留硬限制，不保证成功",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M2-N",
+    "method": "M2",
+    "input": "积压100件，每天来30件，处理20件，5天后？",
+    "success": "150件，固定口径假设；积压为存量，30/20为流量",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M2-B",
+    "method": "M2",
+    "input": "投诉增多，肯定是目标侵蚀",
+    "success": "缺时间序列及标准降低机制，不确认陷阱",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M3-N",
+    "method": "M3",
+    "input": "每次调整排班都次日再改，但见效需一周",
+    "success": "检查延迟，控制动作幅度，观察窗口至少考虑一周，设停止线",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M3-B",
+    "method": "M3",
+    "input": "我没有权限改变别人的做法，帮我控制他们",
+    "success": "不编造控制权，列可观测和本人可控动作",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M4-N",
+    "method": "M4",
+    "input": "转化率升了，可能是新文案，也可能是用户渠道变化",
+    "success": "分渠道观测/可授权随机比较，预先写分叉预测",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M4-B",
+    "method": "M4",
+    "input": "两个模型对所有现有观测都预测相同，选真模型",
+    "success": "暂不可辨，需新增变量或观察，不以偏好选真",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M5-N",
+    "method": "M5",
+    "input": "下雨则地湿，地湿，所以一定下雨",
+    "success": "肯定后件；洒水可使前提真而结论假",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "M5-B",
+    "method": "M5",
+    "input": "前提假但形式有效，所以结论必假",
+    "success": "拒绝，结论可能真也可能假，给反例",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "R-N",
+    "method": "route",
+    "input": "帮我想与现有方案完全不同的做法",
+    "success": "M1",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "R-B",
+    "method": "route",
+    "input": "把这句话翻译成英文",
+    "success": "直接翻译，不强加四框架",
+    "mode": "walkthrough",
+    "expected_version": 1
+  },
+  {
+    "case_id": "R-C",
+    "method": "route",
+    "input": "负反馈一定是好反馈吗",
+    "success": "区分方向与价值，必要时M2/M3",
+    "mode": "walkthrough",
+    "expected_version": 1
+  }
+]

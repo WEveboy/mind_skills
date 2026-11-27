@@ -1,0 +1,37 @@
+{
+  "name": "mind_skill",
+  "display_name": "四种思考的协作",
+  "description": "问题重构、结构诊断、反馈设计、黑箱辨别、论证审查",
+  "triggers": [
+    "方案卡住",
+    "反复反弹",
+    "反馈失效",
+    "机制不明",
+    "论证是否成立"
+  ],
+  "inputs": [
+    "问题或论证",
+    "目标与约束",
+    "可选观察数据"
+  ],
+  "outputs": [
+    "有条件的判断",
+    "机制及替代解释",
+    "可核对下一步"
+  ],
+  "exclusions": [
+    "精确预测",
+    "专业诊断",
+    "完整形式证明"
+  ],
+  "supported_hosts": [
+    "Codex current session: explicit file loading and walkthrough; automatic discovery not tested"
+  ],
+  "field_origins": {
+    "name": "user",
+    "repository": "user",
+    "other_fields": "derived"
+  },
+  "name_exception": "User explicitly requires underscore. Bundled hyphen-only validator rejects the name; do not silently rename.",
+  "artifact_snapshot": "publication/PUBLIC_MANIFEST.json"
+}

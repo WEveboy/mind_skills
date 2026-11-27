@@ -1,0 +1,574 @@
+[
+  {
+    "candidate_id": "M1-framework",
+    "source_id": "S1",
+    "locator": "PDF30—41,66—106,158—161",
+    "type": "framework",
+    "task_id": [
+      "T1",
+      "T2"
+    ],
+    "summary": "M1流程",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/lateral.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/lateral.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M1-principle",
+    "source_id": "S1",
+    "locator": "PDF30—41,66—106,158—161",
+    "type": "principle",
+    "task_id": [
+      "T1",
+      "T2"
+    ],
+    "summary": "M1必要条件",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/lateral.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/lateral.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M1-case",
+    "source_id": "S1",
+    "locator": "PDF30—41,66—106,158—161",
+    "type": "case",
+    "task_id": [
+      "T1",
+      "T2"
+    ],
+    "summary": "M1原例",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/lateral.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/lateral.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M1-counter",
+    "source_id": "S1",
+    "locator": "PDF30—41,66—106,158—161",
+    "type": "counter",
+    "task_id": [
+      "T1",
+      "T2"
+    ],
+    "summary": "M1失败边界",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/lateral.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/lateral.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M1-glossary",
+    "source_id": "S1",
+    "locator": "PDF30—41,66—106,158—161",
+    "type": "glossary",
+    "task_id": [
+      "T1",
+      "T2"
+    ],
+    "summary": "M1术语",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/lateral.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/lateral.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M2-framework",
+    "source_id": "S2/S3",
+    "locator": "S2 PDF39—57,140—151,175—204,225—246; S3 PDF95—96",
+    "type": "framework",
+    "task_id": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "summary": "M2流程",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/systems.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/systems.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M2-principle",
+    "source_id": "S2/S3",
+    "locator": "S2 PDF39—57,140—151,175—204,225—246; S3 PDF95—96",
+    "type": "principle",
+    "task_id": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "summary": "M2必要条件",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/systems.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/systems.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M2-case",
+    "source_id": "S2/S3",
+    "locator": "S2 PDF39—57,140—151,175—204,225—246; S3 PDF95—96",
+    "type": "case",
+    "task_id": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "summary": "M2原例",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/systems.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/systems.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M2-counter",
+    "source_id": "S2/S3",
+    "locator": "S2 PDF39—57,140—151,175—204,225—246; S3 PDF95—96",
+    "type": "counter",
+    "task_id": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "summary": "M2失败边界",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/systems.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/systems.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M2-glossary",
+    "source_id": "S2/S3",
+    "locator": "S2 PDF39—57,140—151,175—204,225—246; S3 PDF95—96",
+    "type": "glossary",
+    "task_id": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "summary": "M2术语",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/systems.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/systems.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M3-framework",
+    "source_id": "S3/S2",
+    "locator": "S3 PDF22—23,38—45,207—208; S2 PDF231—232",
+    "type": "framework",
+    "task_id": [
+      "T6",
+      "T7"
+    ],
+    "summary": "M3流程",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/control.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/control.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M3-principle",
+    "source_id": "S3/S2",
+    "locator": "S3 PDF22—23,38—45,207—208; S2 PDF231—232",
+    "type": "principle",
+    "task_id": [
+      "T6",
+      "T7"
+    ],
+    "summary": "M3必要条件",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/control.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/control.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M3-case",
+    "source_id": "S3/S2",
+    "locator": "S3 PDF22—23,38—45,207—208; S2 PDF231—232",
+    "type": "case",
+    "task_id": [
+      "T6",
+      "T7"
+    ],
+    "summary": "M3原例",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/control.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/control.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M3-counter",
+    "source_id": "S3/S2",
+    "locator": "S3 PDF22—23,38—45,207—208; S2 PDF231—232",
+    "type": "counter",
+    "task_id": [
+      "T6",
+      "T7"
+    ],
+    "summary": "M3失败边界",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/control.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/control.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M3-glossary",
+    "source_id": "S3/S2",
+    "locator": "S3 PDF22—23,38—45,207—208; S2 PDF231—232",
+    "type": "glossary",
+    "task_id": [
+      "T6",
+      "T7"
+    ],
+    "summary": "M3术语",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/control.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/control.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M4-framework",
+    "source_id": "S3",
+    "locator": "PDF184—187,195—196,210—211",
+    "type": "framework",
+    "task_id": [
+      "T8"
+    ],
+    "summary": "M4流程",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/inquiry.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/inquiry.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M4-principle",
+    "source_id": "S3",
+    "locator": "PDF184—187,195—196,210—211",
+    "type": "principle",
+    "task_id": [
+      "T8"
+    ],
+    "summary": "M4必要条件",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/inquiry.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/inquiry.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M4-case",
+    "source_id": "S3",
+    "locator": "PDF184—187,195—196,210—211",
+    "type": "case",
+    "task_id": [
+      "T8"
+    ],
+    "summary": "M4原例",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/inquiry.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/inquiry.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M4-counter",
+    "source_id": "S3",
+    "locator": "PDF184—187,195—196,210—211",
+    "type": "counter",
+    "task_id": [
+      "T8"
+    ],
+    "summary": "M4失败边界",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/inquiry.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/inquiry.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M4-glossary",
+    "source_id": "S3",
+    "locator": "PDF184—187,195—196,210—211",
+    "type": "glossary",
+    "task_id": [
+      "T8"
+    ],
+    "summary": "M4术语",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/inquiry.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/inquiry.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M5-framework",
+    "source_id": "S4",
+    "locator": "PDF14—49,54—88,106—136",
+    "type": "framework",
+    "task_id": [
+      "T9",
+      "T10"
+    ],
+    "summary": "M5流程",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/logic.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/logic.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M5-principle",
+    "source_id": "S4",
+    "locator": "PDF14—49,54—88,106—136",
+    "type": "principle",
+    "task_id": [
+      "T9",
+      "T10"
+    ],
+    "summary": "M5必要条件",
+    "conditions": "见能力卡E与B",
+    "decision": "verified",
+    "reason": "限定做法可演练；任务增益仅为减少遗漏的假设",
+    "evidence_paths": [
+      "skills/mind_skill/references/logic.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/logic.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M5-case",
+    "source_id": "S4",
+    "locator": "PDF14—49,54—88,106—136",
+    "type": "case",
+    "task_id": [
+      "T9",
+      "T10"
+    ],
+    "summary": "M5原例",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/logic.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/logic.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M5-counter",
+    "source_id": "S4",
+    "locator": "PDF14—49,54—88,106—136",
+    "type": "counter",
+    "task_id": [
+      "T9",
+      "T10"
+    ],
+    "summary": "M5失败边界",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/logic.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/logic.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "M5-glossary",
+    "source_id": "S4",
+    "locator": "PDF14—49,54—88,106—136",
+    "type": "glossary",
+    "task_id": [
+      "T9",
+      "T10"
+    ],
+    "summary": "M5术语",
+    "conditions": "见能力卡E与B",
+    "decision": "reference",
+    "reason": "作为方法上下文，不独立晋级",
+    "evidence_paths": [
+      "skills/mind_skill/references/logic.md",
+      "evaluation/outputs.md"
+    ],
+    "destination": "skills/mind_skill/references/logic.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "N1",
+    "source_id": "S3",
+    "locator": "ch2,4",
+    "type": "framework",
+    "task_id": [
+      "T11"
+    ],
+    "summary": "通道容量与突变的一般计算",
+    "conditions": "不得进入active",
+    "decision": "needs_review",
+    "reason": "数学条件与全部公式未复核",
+    "evidence_paths": [
+      "skills/mind_skill/references/sources.md"
+    ],
+    "destination": "docs/coverage-audit.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "N2",
+    "source_id": "S1/S2",
+    "locator": "S1 ch14; S2 ch2",
+    "type": "case",
+    "task_id": [
+      "T12"
+    ],
+    "summary": "游戏与动态模型全集",
+    "conditions": "不得进入active",
+    "decision": "needs_review",
+    "reason": "未逐例验证",
+    "evidence_paths": [
+      "skills/mind_skill/references/sources.md"
+    ],
+    "destination": "docs/coverage-audit.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "R1",
+    "source_id": "S4",
+    "locator": "PDF77",
+    "type": "principle",
+    "task_id": [
+      "T10"
+    ],
+    "summary": "错误前提必使有效论证结论错误",
+    "conditions": "不得进入active",
+    "decision": "rejected",
+    "reason": "独立反例反驳无条件读法",
+    "evidence_paths": [
+      "skills/mind_skill/references/sources.md"
+    ],
+    "destination": "docs/coverage-audit.md",
+    "revision": 1
+  },
+  {
+    "candidate_id": "R2",
+    "source_id": "S1",
+    "locator": "PDF18—20",
+    "type": "principle",
+    "task_id": [
+      "T2"
+    ],
+    "summary": "所有创新都只能来自水平思考",
+    "conditions": "不得进入active",
+    "decision": "rejected",
+    "reason": "来源教学主张不足以支持普遍定律",
+    "evidence_paths": [
+      "skills/mind_skill/references/sources.md"
+    ],
+    "destination": "docs/coverage-audit.md",
+    "revision": 1
+  }
+]
